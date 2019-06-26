@@ -7,4 +7,5 @@ File ini berisi kritik dan saran untuk Lab Instrumentasi dan Kendali
 
 ### Saran
 - Penambahan CCTV
+- Penambahan Komputer baru
 -
